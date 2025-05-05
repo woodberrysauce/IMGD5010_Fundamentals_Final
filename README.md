@@ -1,4 +1,4 @@
-# IMGD5010_Fundamentals_Final
+# IMGD5010_Fundamentals_Final_Xingyi-Liu
 
 
 ## Concept
