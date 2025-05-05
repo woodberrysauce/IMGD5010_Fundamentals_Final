@@ -14,5 +14,11 @@ That is to say, the maze regenerates when the flashlight is turned off, either d
 
 After adding more things, This mechanic may introduces both aesthetic and a gameplay complexity. Players must make progress within a short window of visibility, and guess the unseen structure of the maze. The prototype includes basic movement, visibility masking, and trying to add random maze structure generation.
 
+## Feedback
+I changed the light around the player to be visible from the start, so you didn't know you could turn off the visible range to change the maze.
+I fixed the problem that the final victory titles were not displayed.
+The player have to press the button continuously to move, and I changed it to the player holding the button to move.
+
+
 ## Game
 https://editor.p5js.org/woodberrysauce/sketches/RGvJE851W
